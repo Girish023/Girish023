@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Girish023&show_icons=true&locale=en&bg_color=003366,00509e&title_color=ff6600" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Girish023&" alt="Girish023" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Girish023&background=ffcc00,ffcc33&title_color=00ccff" alt="Girish023" /></p>
