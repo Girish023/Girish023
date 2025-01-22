@@ -35,5 +35,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Girish023&show_icons=true&locale=en&layout=compact&bg_color=2a2a3e,4e4e7e&title_color=ffcc00" alt="Top Languages" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Girish023&show_icons=true&locale=en&bg_color=003366,00509e&title_color=ff6600" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Girish023 &" alt="Girish023" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Girish023&" alt="Girish023" /></p>
